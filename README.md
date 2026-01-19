@@ -67,7 +67,7 @@ python main.py
 
 ## Deployment
 **Live Demo URL:**
-https://fdf289d37c20bd0793.gradio.live/
+https://915aaaa4112fd7bb32.gradio.live/
 
 ---
 
