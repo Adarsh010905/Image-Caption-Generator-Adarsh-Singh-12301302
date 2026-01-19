@@ -63,13 +63,6 @@ pip install -r requirements.txt
 python main.py
 ```
 
----
-
-## Deployment
-**Live Demo URL:**
-https://915aaaa4112fd7bb32.gradio.live/
-
----
 
 ## Features
 - End-to-end working web app (accessible via browser)
