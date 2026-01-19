@@ -69,9 +69,6 @@ python main.py
 **Live Demo URL:**
 https://fdf289d37c20bd0793.gradio.live/
 
-**YouTube Link:**
-https://youtu.be/E1trY0HLmCM
-
 ---
 
 ## Features
